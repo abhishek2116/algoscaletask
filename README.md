@@ -18,10 +18,10 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
-## Docs
-- [DB Schmea](https://github.com/algorish/backend-task/blob/master/prisma/schema.prisma)
+#### Documents
 - [EER](https://github.com/algorish/backend-task/blob/master/docs/EER.pdf)
 - [Postman Collections](https://github.com/algorish/backend-task/blob/master/docs/Backend%20Task.postman_collection.json)
+- [DB Schmea](https://github.com/algorish/backend-task/blob/master/prisma/schema.prisma)
 
 
 <hr></hr>
