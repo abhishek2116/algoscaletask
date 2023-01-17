@@ -1,0 +1,28 @@
+# Backend Api Task
+
+## Installation
+
+```bash
+$ npm install
+```
+
+## Running the app
+
+```bash
+# development
+$ npm run start
+
+# watch mode
+$ npm run start:dev
+
+# production mode
+$ npm run start:prod
+```
+
+
+<hr></hr>
+
+Code by - Abhishek Pathak
+
+
+
